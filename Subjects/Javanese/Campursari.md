@@ -10,20 +10,20 @@ Campursari adalah genre yang berupa campuran dari berbagai elemen musik tradisio
 
 ## Ciri-ciri
 
-Perpaduan Instrumen Tradisional dan Modern:
+- Perpaduan Instrumen Tradisional dan Modern:
 Campursari menggabungkan instrumen-instrumen tradisional Jawa, seperti gamelan, kendang, dan saron, dengan instrumen-instrumen modern seperti gitar, keyboard, dan biola.
-Campuran Bahasa Jawa dan Bahasa Indonesia:
+- Campuran Bahasa Jawa dan Bahasa Indonesia:
 Lirik lagu Campursari seringkali menggunakan bahasa Jawa dan Bahasa Indonesia secara bersamaan. Ini menciptakan suasana yang khas dan dapat diakses oleh berbagai lapisan masyarakat.
-Penggunaan Gaya Bernyanyi "Klenengan":
+- Penggunaan Gaya Bernyanyi "Klenengan":
 Gaya bernyanyi khas Campursari dapat mencakup teknik vokal yang khas, termasuk "klenengan" yang menekankan improvisasi dan ekspresi.
-Isi Lirik yang Beragam:
+- Isi Lirik yang Beragam:
 Lirik lagu Campursari dapat berkisar dari tema-tema tradisional Jawa, seperti legenda atau sastra Jawa, hingga tema-tema modern yang lebih umum diakses oleh pendengar masa kini.
-Ragam Tembang:
+- Ragam Tembang:
 Campursari memiliki ragam tembang atau jenis lagu yang beragam, seperti gending, dandanggula, dan langgam. Masing-masing tembang memiliki karakteristik musikal dan lirikalnya sendiri.
-Kemampuan Improvisasi dan Kreativitas:
+- Kemampuan Improvisasi dan Kreativitas:
 Para seniman Campursari memiliki kebebasan untuk mengekspresikan kreativitas dan improvisasi dalam pertunjukan mereka, baik dalam penyampaian vokal maupun aransemen musik.
-Ditampilkan dalam Berbagai Acara:
+- Ditampilkan dalam Berbagai Acara:
 Campursari sering tampil dalam berbagai acara, baik tradisional maupun modern, seperti pernikahan, pertunjukan seni, festival, dan konser.
-Keberlanjutan dan Pengembangan:
+- Keberlanjutan dan Pengembangan:
 Meskipun memiliki akar dalam tradisi musik Jawa, Campursari terus berkembang dan mengalami adaptasi dengan memasukkan unsur-unsur musik modern, menjadikannya relevan di berbagai lingkungan musik kontemporer.
 Campursari mencerminkan semangat pencampuran budaya dan tradisi dalam musik Indonesia, dan banyak dianggap sebagai bagian yang tak terpisahkan dari warisan budaya musik Nusantara.
