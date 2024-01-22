@@ -20,20 +20,20 @@ $a_UnderCurve=xy$
 - $x$ = horizontal coordinate
 - $y$ = vertical coordinate
 
-$gradient={frac{∆y}{∆x}}$
+$gradient={\frac{∆y}{∆x}}$
 
 - $x$ = horizontal coordinate
 - $y$ = vertical coordinate
 
 ---
 
-$v_l=frac{2πr}T=frac{∆𝛉}{∆t}=(frac{2π}T)r=ωr$
+$v_l=\frac{2πr}T=\frac{∆𝛉}{∆t}=(\frac{2π}T)r=ωr$
 
 - $v_l$ = linear speed ($ms^{-1}$)
 - $r$ = radius ($m$)
 - $T$ = time for a full rotation (s)
 
-$ω=frac{2r}T=2rf=vr$
+$ω=\frac{2r}T=2rf=vr$
 
 - $ω$ = angular speed ($rad.sec^{-1}$)
 - $r$ = radius ($m$)
@@ -41,12 +41,12 @@ $ω=frac{2r}T=2rf=vr$
 - $f$ = frequency (s$^{-1}$)
 - $v$ = velocity ($ms^{-1}$)
 
-$f=frac1T$
+$f=\frac1T$
 
 - $f$ = frequency (hertz)
 - $T$ = time for a full rotation (s)
 
-$a_c=frac{v^2}r=frac{∆w}{∆t}=frac{w_2-w_1}{t_2-t_1}=frac{4π^2r}{T^2}=v_{final}-v_{initial}$
+$a_c=\frac{v^2}r=\frac{∆w}{∆t}=\frac{w_2-w_1}{t_2-t_1}=\frac{4π^2r}{T^2}=v_{final}-v_{initial}$
 
 - $a_c$ = angular acceleration ($rad.sec^-2$)
 - $v$ = velocity ($ms^{-1}$)
@@ -55,13 +55,13 @@ $a_c=frac{v^2}r=frac{∆w}{∆t}=frac{w_2-w_1}{t_2-t_1}=frac{4π^2r}{T^2}=v_{fin
 - $t$ = time (s)
 - $T$ = time for a full rotation (s)
 
-$a=frac{∆v}{∆t}$
+$a=\frac{∆v}{∆t}$
 
 - $a$ = acceleration ($ms^{-2}$)
 - $v$ = velocity ($ms^{-1}$)
 - $t$ = time ($s$)
 
-$F=ma=frac{mv^2}r=mω^2r$
+$F=ma=\frac{mv^2}r=mω^2r$
 
 - F = force (N)
 - m = mass (kg)
@@ -70,7 +70,7 @@ $F=ma=frac{mv^2}r=mω^2r$
 - $r$ = radius ($m$)
 - ω = angular speed ($rad.sec^{-1}$)
 
-$F_c=frac{mcdot v^2}r$
+$F_c=\frac{mcdot v^2}r$
 
 - $F_c$ = Centripetal force (N)
 - $m$ = mass (kg)
@@ -87,13 +87,13 @@ $W=Fs=Fscos𝛉=∆E_k$
 - 𝛉 = angle between force and displacement (˚)
 - $E_k$ = kinetic energy (J)
 
-$E_k=frac12mv^2$
+$E_k=\frac12mv^2$
 
 - $E_k$ = kinetic energy (J)
 - $m$ = mass (kg)
 - v = velocity (ms$^{-1}$)
 
-$E_p=mgh_{(gravitational)}=frac12k∆x^2_{(spring)}$
+$E_p=mgh_{(gravitational)}=\frac12k∆x^2_{(spring)}$
 
 - $E_p$ = gravitational energy (J)
 - $m$ = mass (kg)
@@ -108,7 +108,7 @@ $E_t=E_k+E_p$
 - $E_k$ = kinetic energy (J)
 - $E_p$ = gravitational energy (J)
 
-$P=Fv=frac Et=frac Wt$
+$P=Fv=\frac Et=\frac Wt$
 
 - $P$ = power (W)
 - F = force (N)
